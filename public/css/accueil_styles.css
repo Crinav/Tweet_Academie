@@ -1,0 +1,257 @@
+.div_test{
+    background-color: grey;
+}
+body{
+    margin: 0 !important;
+}
+/*nav*/
+
+.logo_twit{
+    width:3rem;
+}
+
+.logo_house{
+    width: 60px;
+}
+
+.nav_text{
+    margin-top: 20px;
+}
+
+.logo_mess{
+    width: 60px;
+}
+
+.logo_prof{
+    width: 60px;
+}
+
+.nav_titre{
+    padding-top: 5%;
+}
+
+.nav_row{
+    margin:10%;
+}
+
+.nav_text{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.nav_text:hover{
+    color: blue;
+}
+.bienvenue{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: red;
+    
+}
+
+/*menu quoi de neuf*/
+
+.accueil_menu{
+    border: solid 1px; 
+    border-color:rgb(230, 236, 240);
+}
+
+.div_accueil_tweeter{
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+
+.accueil_titre{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: solid 1px;
+    border-color:rgb(230, 236, 240);
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.logo_user{
+    width: 5rem;
+}
+
+.input_quoi{
+    border: none;
+    margin-top: 5%;
+}
+
+/*accueil-separator*/
+
+.accueil_separator{
+    background-color: rgb(230, 236, 240);
+    height: 10px;
+}
+#commentaire{
+    margin-left: 19em;
+    margin-top: 5px;
+}
+
+
+/*accueil-tweets*/
+.lien{
+    margin: 0 4px 0 4px;
+    padding-left: 3px;
+}
+.carac{
+    width: 50px;
+}
+.accueil_menu{
+    margin-right: 3%;
+}
+
+.accueil_div_tweet{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.accueil_div_tweet_retweet{
+    font-size: small;
+    color: grey;
+    padding-left: 4%;
+}
+
+.accueil_div_tweet_pseudo{
+    padding-top: 1%;
+}
+
+.accueil_tweet_pseudo{
+    margin-top: 6%;
+    font-weight: bold;
+}
+
+.accueil_div_tweet_answer{
+    font-size: medium;
+    color: grey;
+}
+
+.accueil_div_tweet_text{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.accueil_div_tweet_image{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.img_test{
+    width: 100%;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.accueil_div_tweet_comm{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.logo_comm{
+    width: 30%;
+}
+
+.logo_retweet{
+    width: 20%;
+}
+
+.logo_like{
+    width: 30%;
+}
+
+
+/*research*/
+
+.accueil_right_research{
+    margin-top: 2%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    margin-bottom: 5%;
+    background-color: rgb(229, 239, 245);
+    border-radius: 10%;
+}
+
+.logo_research{
+    width: 2em;
+}
+
+.input_research{
+    margin-top: 1%;
+    width: 100%;
+    border: none;
+    background-color: rgb(229, 239, 245);
+}
+.accueil_div_tweet {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: Helvetica, Arial, sans-serif;
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+}
+
+/*folowwings*/
+
+.accueil_right_followings{
+    padding: 2%;
+    margin-bottom: 5%;
+    background-color: rgb(229, 239, 245);
+    border-radius: 10%;
+    color: grey;
+}
+
+.row_followings{
+    padding-top: 5%;
+}
+
+.button_desabonne{
+    width: 100%;
+    height: 2rem;
+}
+
+.voir_plus{
+    color: rgb(86, 86, 158);
+    width: 100%;
+    margin-left: 10%;
+}
+
+.logo_user_follow{
+    height: 2.5rem;
+}
+
+
+/*followers*/
+
+.accueil_right_followers{
+    color: grey;
+    padding: 2%;
+    background-color: rgb(229, 239, 245);
+    border-radius: 10%;
+}
+
+.row_followers{
+    padding: 1%;
+}
+
+.button_suivre{
+    width: 100%;
+    height: 2rem;
+}
+.mp{
+    margin-top: 2em;
+}
+.id_tag{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    padding: 1em;
+    background-color: rgb(96, 227, 244);
+}

@@ -1,0 +1,47 @@
+.btn-primary{
+    flex: 0 0 50%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 18px;
+    color: #212529;
+    background-color: #ED2543;
+    border: 0px;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+}
+.div-log{
+    margin-top: 5em;
+}
+.form-check{
+    text-align: center;
+}
+.logo{
+text-align: center;
+}
+.reponse{
+    text-align: center;
+    color: #ED2543;
+}
+.error{
+    color: red;
+    text-align: center;
+    text-decoration: blink;
+}
+.home_link{
+    text-align: center;
+    color: red;
+}
+#erreur{
+    display: none;
+}
+.retour{
+    position: relative;
+   
+}
+.separator{
+    height: 30px;
+}
