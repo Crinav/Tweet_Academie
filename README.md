@@ -1,6 +1,22 @@
 # Tweet_Academie
 A Twitter Lite
 
-A group (3 pers.) project who reproduce Twitter.(3 weeks)
+A group (3 pers.) project who reproduces  main features of Twitter.(3 weeks)
 
-![accueil](Tweet Academy-Accueil.png)
+## Language
+* PHP
+* MySQL
+* Jquery (Ajax)
+
+## Features 
+* Log in
+* Sign up 
+* Add a tweet
+* ReTweet
+* Search @Tag and #Hashtag
+* Post a private message
+* Post a picture
+* Post a link
+* Update profil
+
+
