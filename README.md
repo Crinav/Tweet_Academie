@@ -3,7 +3,7 @@ A Twitter Lite
 
 A group (3 pers.) project who reproduces  main features of Twitter.(3 weeks)
 ___   
-![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/Tweet%20Academy.png "main page")  
+![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/Tweet%20Acad%C3%A9mie.png "main page")  
 ___  
 
 ## Languages
@@ -40,6 +40,6 @@ ___
 ![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/Tweet%20Academy-Messagerie.png)   
 ___  
 
-![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/Tweet%20Academy-Profil.png)  
+![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/profil_tweeter.png)  
 
   
