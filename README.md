@@ -1,7 +1,7 @@
 # Tweet_Academie
 A Twitter Lite
 
-A group (3 pers.) project who reproduces  main features of Twitter.(3 weeks)
+A group (3 pers.) project that replicates  main functionalities of Twitter.(2 weeks)
 ___   
 ![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/Tweet%20Acad%C3%A9mie.png "main page")  
 ___  
